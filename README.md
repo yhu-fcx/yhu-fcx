@@ -10,7 +10,7 @@ This project build by docsify.
 ### Install docsify
 If your computer did not install docsify, please run command `npm i docsify-cli -g` to install.
 
-## Version Check
+### Version Check
 Run command `docsify -version` should show as below.
 
 ```text
