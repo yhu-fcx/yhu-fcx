@@ -1,7 +1,6 @@
 - FacilityConneX
   - [Readme](README.md)
   - [Contact](CONTACT.md)
-    onboarding.md
 - Toolkits
   - [Onboarding](toolkits/onboarding.md)
   - [Install and Initialize](java/fundamentals/index.md)
