@@ -3,7 +3,7 @@
   - [Contact](CONTACT.md)
 - Toolkits
   - [Onboarding](toolkits/onboarding.md)
-  - [Install and Initialize](java/fundamentals/index.md)
+  - [Install and Initialize](toolkits/install-initialize.md)
   - [Connection](gradle.md)
   - [Repository](gradle.md)
   
