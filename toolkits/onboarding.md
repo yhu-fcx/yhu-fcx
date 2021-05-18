@@ -1,5 +1,5 @@
-# Set Up Env
-Always good to have some document to get everything set up.
+# Onboarding Team
+Always good to have some document to get everything set up and get understand tools, products.
 
 This is the guideline which applications and environments we should install on your computer.
 
@@ -10,7 +10,7 @@ Like my account: YuCheng Hu [yucheng@facilityconnex.com](yucheng@facilityconnex.
 
 You need to ask your HR or manager for necessary information.
 
-## Websites Links
+## Links
 Blow are links you may need visit every day.
 
 Add those links to your bookmark is good idea.
