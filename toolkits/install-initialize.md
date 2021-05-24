@@ -12,6 +12,7 @@ Please install tools below for development request.
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
 * [Notepad++](https://notepad-plus-plus.org/downloads/)
 * [TortoiseGit](https://tortoisegit.org/download/)
+* [GnuPG](https://www.gnupg.org/download/)
 
 ### Windows Related
 * [WSL](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
